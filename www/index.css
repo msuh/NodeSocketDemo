@@ -1,0 +1,30 @@
+body{
+	font-family: 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif;
+}
+
+#div_container{
+	width:80%;
+	margin-left:10%;
+	height:80%;
+	margin-top:10%;
+	border:outset 1px;
+}
+
+#div_circle{
+	width: 300px;
+	height: 300px;
+	border-radius: 150px;
+	margin-top:-150px;
+	margin-left:-150px;
+	top:50%;
+	left:50%;
+	/*background-color: #424342;*/
+	position: fixed;
+}
+
+#val{
+	color:#424342;
+	text-align: center;
+	margin-top:125px;
+	font-size: 100px;
+}
