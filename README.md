@@ -6,7 +6,7 @@ A simple server to client interaction using socket.io.  Server sends a random nu
 
 Starting the server:
 
-  $node challange.js
+  $node challenge.js
 
 Connecting to the server:
 
